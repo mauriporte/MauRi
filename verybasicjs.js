@@ -110,5 +110,8 @@ console.log (phrase);
 // && => AND
 // || => OR
 
+/*
+
 var age = 20;
 var name
+*/
